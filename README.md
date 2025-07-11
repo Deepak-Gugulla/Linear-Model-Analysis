@@ -55,12 +55,6 @@ The project includes:
 
 ---
 
-## 📝 License
-
-This project is released under the **MIT License** — free to use and adapt with attribution.
-
----
-
 ## 👥 Questions?
 
 Feel free to open an issue or contact me directly.
